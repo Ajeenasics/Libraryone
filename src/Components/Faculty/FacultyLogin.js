@@ -1,6 +1,6 @@
 import React from 'react'
 
-function UserRegister() {
+function FacultyLogin() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function UserRegister() {
   )
 }
 
-export default UserRegister
+export default FacultyLogin
